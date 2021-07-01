@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2c1c495b-3cde-4c7b-b26c-b65001da9b07/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/haichiPlacement",
+    "appService.deploySubpath": "."
+}
